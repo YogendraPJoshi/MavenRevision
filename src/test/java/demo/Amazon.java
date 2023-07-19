@@ -12,5 +12,6 @@ public class Amazon {
 	  driver.get("https://www.amazon.in/");
 	  driver.close();
 	  Thread.sleep(3000);
+	  System.out.println("HI I MADE CHANGE");
   }
 }
