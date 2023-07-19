@@ -14,5 +14,6 @@ public class FlipKart {
 	  driver.close();
 	  Thread.sleep(3000);
 	  System.out.println("HI GE");
+	  System.out.println("Velocity made changes");
   }
 }
